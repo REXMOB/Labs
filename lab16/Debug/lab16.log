@@ -1,0 +1,4 @@
+﻿  lab16.cpp
+D:\vf\POLITEH\ITAS\Predmety\Polyakova\Labs\16\lab16\lab16.cpp(123,25): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\vf\POLITEH\ITAS\Predmety\Polyakova\Labs\16\lab16\lab16.cpp(50): warning C4715: BMura: значение возвращается не при всех путях выполнения
+  lab16.vcxproj -> D:\vf\POLITEH\ITAS\Predmety\Polyakova\Labs\16\lab16\Debug\lab16.exe
